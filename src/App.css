@@ -1,0 +1,6 @@
+.focus:focus{
+color: blue;
+}
+.focus{
+    width: 100%;
+}
